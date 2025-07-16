@@ -2,7 +2,7 @@ package Week_1;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class String_Main {
     public static void main(String[] args) {
         String name = "Merhaba Dunya";
         System.out.printf(name);
@@ -37,6 +37,9 @@ public class Main {
         System.out.println(s1 == s2);
         System.out.println(s1 == s4);
         System.out.println("s1 esit mi s3 " + s1.equals(s3));
+
+
+
 
 
 

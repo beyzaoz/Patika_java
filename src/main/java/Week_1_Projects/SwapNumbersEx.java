@@ -1,4 +1,4 @@
-package Practice1;
+package Week_1_Projects;
 
 public class SwapNumbersEx {
     public static void main(String[] args) {

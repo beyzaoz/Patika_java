@@ -31,7 +31,7 @@ public class Cashier_Program {
             System.out.println("It is negative value!!.");
 
         }
-        //If there is no negative value, calculate the total.
+        //If there is no negative value, calculate the total..
         else{
             double total = (pear * 2.14) +(apple * 3.67) +(tomatoe * 1.11) +(banana * 0.95) +(eggplant * 5);
             System.out.println("Your total iss: " + total );

@@ -1,4 +1,4 @@
-package Week_1;
+package Week_1.Switch_Case;
 
 import java.util.Scanner;
 

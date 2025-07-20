@@ -1,4 +1,4 @@
-package Week_1;
+package Week_1.Switch_Case;
 
 public class Switch_case_Main3 {
     public static void main(String[] args) {

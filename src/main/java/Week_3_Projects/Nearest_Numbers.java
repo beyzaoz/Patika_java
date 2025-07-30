@@ -27,7 +27,7 @@ public class Nearest_Numbers {
        int num = 0;
        int num2 = 0;
 
-       //with for loop checking the differenses
+       //with for loop checking the differenses yes
        for(int i = 0; i<numbers.size()-1; i++){
            int a = numbers.get(i+1)- numbers.get(i);
            //We compare which value is smallest

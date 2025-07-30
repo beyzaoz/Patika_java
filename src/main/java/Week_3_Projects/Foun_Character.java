@@ -38,9 +38,6 @@ public class Foun_Character {
         arrList.add("c");
         arrList.add("h");
 
-        int i=0;
-        int j =0;
-
      for(String s : inputList){
          if(arrList.contains(s)){
              System.out.println(s+"Found");
@@ -52,7 +49,7 @@ public class Foun_Character {
 
          }
      }
-     return arrList;
+     return s;
 
 
 

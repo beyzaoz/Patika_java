@@ -49,11 +49,7 @@ public class Main {
         System.out.println("Tax: " + tax);
         System.out.println("Total salary with tax and bonus: " + totalsalary1);
         System.out.println("Total salary: " + totalsalary);
-
-
-
-
-
+        
     }
 
 //Methods

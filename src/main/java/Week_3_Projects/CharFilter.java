@@ -1,9 +1,6 @@
 package Week_3_Projects;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 
 public class CharFilter {
@@ -12,7 +9,8 @@ public class CharFilter {
         //Get input
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter your word: ");
-        String input = scanner.nextLine();
+        String input1 = scanner.nextLine();
+        String input = input1.toLowerCase();
 
 
         //Calling method

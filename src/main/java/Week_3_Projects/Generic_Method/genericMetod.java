@@ -1,4 +1,4 @@
-package Week_3_Projects.MovieFilter.Generic_Method;
+package Week_3_Projects.Generic_Method;
 
 public class genericMetod {
 

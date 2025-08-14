@@ -33,7 +33,7 @@ public class Lambda {
 //            System.out.println(number);
 //
 //        }
-       numbers.forEach(n -> System.out.println(n));
+       numbers.forEach(n -> System.out.println(n)); //
 
 
     }

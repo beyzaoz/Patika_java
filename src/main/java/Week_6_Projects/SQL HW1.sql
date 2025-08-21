@@ -9,7 +9,7 @@ SELECT * FROM film ORDER BY rental_rate =0.99 AND  replacement_cost = 12.99 OR r
 
 SELECT first_name,last_name FROM customer WHERE first_name='Mary';
 
-SELECT * FROM film WHERE NOT(length>50) AND rental_rate NOT IN(2.99, 4.99);
+SELECT * FROM film WHERE NOT(length>50) AND rental_rate NOT IN(2.99, 4.99);//
 
 
 
